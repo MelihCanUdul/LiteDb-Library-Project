@@ -1,0 +1,37 @@
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB_Kitaplik_Uygulamasi.exe.config
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB_Kitaplik_Uygulamasi.exe
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB_Kitaplik_Uygulamasi.pdb
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.Properties.Resources.resources
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.exe
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.pdb
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.Form1.resources
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB.dll
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB.xml
+C:\Users\Berke\source\repos\KurnazVt\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.CopyComplete
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB_Kitaplik_Uygulamasi.exe.config
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB_Kitaplik_Uygulamasi.exe
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB_Kitaplik_Uygulamasi.pdb
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\bin\Debug\LiteDB.xml
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.Form1.resources
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.Properties.Resources.resources
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.CopyComplete
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.exe
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\CSharpExamples\LiteDB_Kitaplik_Uygulamasi\obj\Debug\LiteDB_Kitaplik_Uygulamasi.pdb
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\bin\Debug\LiteDB_Kitaplik_Uygulamasi.exe.config
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\bin\Debug\LiteDB_Kitaplik_Uygulamasi.exe
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\bin\Debug\LiteDB_Kitaplik_Uygulamasi.pdb
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\bin\Debug\LiteDB.xml
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.Form1.resources
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.Properties.Resources.resources
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.csproj.CopyComplete
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.exe
+C:\Users\MELİH CAN UDÜL\Desktop\Lite\LiteDbLibraryProject\obj\Debug\LiteDB_Kitaplik_Uygulamasi.pdb
